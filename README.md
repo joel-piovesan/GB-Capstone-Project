@@ -1,4 +1,4 @@
-# comp3078-capstone
+# George Brown - Capstone Project 
 
 About the company: (Our group name for this class)
 BusyBee Shipping Solutions is a company that provides a dispatching service (SaaS) to companies
