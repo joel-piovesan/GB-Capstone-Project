@@ -1,0 +1,35 @@
+@media (max-width: 600px) {
+    .routeButtonContainer {
+        display: flex;
+        flex-direction: column;
+        width: 95%;
+        margin: auto;
+    }
+    .routeButton{
+        margin: 0.25em;
+    }
+}
+
+@media (min-width: 601px) {
+    .routeButtonContainer {
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+    }
+    .routeButton{
+        margin: 1em;
+        width: 15em;
+    }
+}
+
+.adminDetails{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: row;
+}
+
+.detailsContainer {
+    margin: 5em;
+}
+
