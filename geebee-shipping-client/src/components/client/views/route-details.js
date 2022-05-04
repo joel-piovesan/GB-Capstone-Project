@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 import Container from 'react-bootstrap/Container'
 import './route-styles.css'
 
-Geocode.setApiKey("AIzaSyB63fYe9MyaTJZbGVDSEYD2-wPXk37Q4jY")
+Geocode.setApiKey("REMOVED FOR PUBLIC")
 Geocode.setLanguage("en")
 Geocode.enableDebug();
 
@@ -238,7 +238,7 @@ class ViewRouteDetails extends Component {
 
                         <Row className="justify-content-center">
                             <LoadScript
-                                googleMapsApiKey="AIzaSyB63fYe9MyaTJZbGVDSEYD2-wPXk37Q4jY"
+                                googleMapsApiKey="REMOVED FOR PUBLIC"
                             >
                                 <GoogleMap
                                     mapContainerStyle={containerStyle}
